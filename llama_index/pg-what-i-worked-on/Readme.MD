@@ -5,6 +5,11 @@ A simple example using [llama-index](https://gpt-index.readthedocs.io/en/latest/
 ## Usage
 
 ```bash
-pip install llama-index
+export OPENAI_API_KEY=XXXXXX # Set openai keys
+
+python -m venv env # create virtual environment
+source env/bin/activate # activate virtual environment
+
+pip install llama-index 
 python main.py
 ```
