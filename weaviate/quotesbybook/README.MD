@@ -6,18 +6,22 @@ This example application shows how to upload quotes from the site [QuotesByBooks
 
 ```bash
 .
-├── data
 ├── client.py
+├── data
+│   ├── quote.py
+│   └── quotesbybook.csv
 ├── docker-compose.yml
 ├── main.py
 ├── README.MD
+├── ui.py
 └── upload.py
 ```
 
-- `data`: Contains the data that will be uploaded to Weaviate and the script to download the data.
 - `client.py`: Contains the Weaviate client that interacts with weaviate client.
+- `data`: Contains the data that will be uploaded to Weaviate and the script to download the data.
 - `docker-compose.yml`: Contains the configuration for the Weaviate docker container.
-- `main.py`: Contains the main script that will be executed.
+- `main.py`: The CLI application.
+- `ui.py`: The streamlit Graphical User Interface Application.
 - `upload.py`: Contains the script that uploads the data to Weaviate.
 
 ## Usage
@@ -81,3 +85,16 @@ The application will respond with:
 
 Type `exit` to exit the REPL.
 
+## GUI APP
+
+To use the GUI application install streamlit:
+
+```bash
+pip install streamlit
+```
+
+Then run:
+
+```bash
+streamlit run ui.py
+```
