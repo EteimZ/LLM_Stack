@@ -51,3 +51,33 @@ Run the main script:
 ```bash
 python main.py
 ```
+
+Running the will take you into a REPL where you can search for quotes. For example:
+
+```bash
+Input Query: decision making
+```
+
+The application will respond with:
+
+```json
+{
+  "data": {
+    "Get": {
+      "QuotesByBook": [
+        {
+          "author": "lewis christ",
+          "quote": "Whenever you feel pressured just because others are doing it, pause for a while. Give it time to notice ann wait until there is evidence to prove that it's the right action before you give in."
+        },
+        {
+          "author": "morgan housel",
+          "quote": "Intelligence is not a reliable advantage in a world that's become as connected as ours has. But flexibility is."
+        }
+      ]
+    }
+  }
+}
+```
+
+Type `exit` to exit the REPL.
+
