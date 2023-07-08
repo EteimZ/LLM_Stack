@@ -6,7 +6,13 @@ from client import client
 """
 
 query = st.text_input("Provide a query:")
-limit = st.slider('Provide a limit:', 1, 10, 1)
+
+with st.sidebar:
+    """
+    # Query config
+    """
+    limit = st.slider('limit:', 1, 10, 1, help="Provide a limit to how much data you want returned.")
+
 if st.button("Search"):
     
     nearText = {"concepts": [query]}
