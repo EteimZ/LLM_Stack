@@ -10,7 +10,7 @@ export OPENAI_API_KEY=XXXXXXYYYYYYZZZZZ
 python main.py
 ```
 
-This will launch a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) with LLM.
+This will launch a [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) session with the LLM.
 
 ```bash
 Human: What is the sine of 10
