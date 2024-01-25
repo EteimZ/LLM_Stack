@@ -1,6 +1,6 @@
-# LLM Guide book
+# Generative AI Guide book
 
-This repo is my note to the ever evolving LLM landscape.
+This repo is my note to the ever evolving Generative AI landscape.
 
 ## Terminologies
 - Language model
@@ -12,6 +12,7 @@ This repo is my note to the ever evolving LLM landscape.
 - Prompting
 - Reinforcement Learning from Human Feedback
 - Embeddings
+- Diffusion models
   
 ## Techniques
 
@@ -31,8 +32,9 @@ This repo is my note to the ever evolving LLM landscape.
 - Direct Preference Optimization (DPO)
 
 ## Models
+## Language models
 
-### Open source Models
+### Open source
 - Llama
 - Llama2
 - Alpaca
@@ -44,12 +46,21 @@ This repo is my note to the ever evolving LLM landscape.
 - Gemini
 - GPT models
 
+## Diffusion models
+- Stable diffusion
+- Denoising Diffusion Probabilistic Model
+
 ## Papers
+
 - [Attention is all you need](https://arxiv.org/abs/1706.03762): The paper that introduced the transformer architecture.
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): The paper that introduced intructgpt which was ground work for ChatGPT.
 - [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239): This paper instroduces the **Denoising Diffusion Probabilistic Model** which is used for image synthesis.
+- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020): This paper introduced the [CLIP](https://openai.com/research/clip) model.
+- [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741): This paper introduced the glide model.
+
 
 ## Technologies
 
@@ -57,11 +68,16 @@ This repo is my note to the ever evolving LLM landscape.
 - Langchain
 - LlamaIndex
 - Huggingface
+- [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch): Implementation of **Denoising Diffusion Probabilistic Model**  in Pytorch.
 
 ### Vector databases
 - Weaviate
 - Pinecone
 - ChromaDB
+
+## Blogs
+- [DDPM in keras](https://keras.io/examples/generative/ddpm/): This tutorial implements the **Denoising Diffusion Probabilistic Model** in keras.
+- [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/): Awesome blog bost introducing diffusion models.
   
 ## Companies
 
