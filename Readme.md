@@ -86,4 +86,4 @@ This repo is my note to the ever evolving Generative AI landscape.
 ## Podcasts
 
 ## Datasets
-
+- [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue)
