@@ -87,3 +87,12 @@ This repo is my note to the ever evolving Generative AI landscape.
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue)
+
+
+## Other Resources/Inpirations
+The following sites served as the inspiration for this repo.
+- [FullStack Python](https://www.fullstackpython.com/): An all in one guide to fullstack development in python.
+- [learnprompting](https://learnprompting.org/docs/intro)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [lilianweng blog on prompt engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+
