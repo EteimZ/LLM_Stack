@@ -60,7 +60,10 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239): This paper instroduces the **Denoising Diffusion Probabilistic Model** which is used for image synthesis.
 - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020): This paper introduced the [CLIP](https://openai.com/research/clip) model.
 - [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741): This paper introduced the glide model.
-
+- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146): This paper introduced the concept of finetuning Language models.
+- [A Brief History of Prompt: Leveraging Language Models. (Through Advanced Prompting)](https://arxiv.org/abs/2310.04438)
+- [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)
+- [First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): This paper explains the existential crisis that most NLP currently face since the rise of LLMs.
 
 ## Technologies
 
@@ -86,7 +89,13 @@ This repo is my note to the ever evolving Generative AI landscape.
 ## Podcasts
 
 ## Datasets
-- [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue)
+- [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
+- [Wikitext](https://huggingface.co/datasets/wikitext): Contains text extracted from wikipedia.
+- [IMDB](https://huggingface.co/datasets/imdb): This dataset is suitable for text binary classification.
+- [Yelp review](https://huggingface.co/datasets/yelp_review_full): This dataset is suitable for text multi classification.
+- [Text REtrieval Conference (TREC)](https://huggingface.co/datasets/trec): This dataset is for question classification.
+- [AG news](https://huggingface.co/datasets/ag_news): This dataset is suitable for topic classification dataset. It contains 1 million news and their corresponding topic as labels. The labels fall into 5 classes.
+-  [DPpedia 14](https://huggingface.co/datasets/fancyzhx/dbpedia_14): This dataset contains a subset of DBpedia dataset.
 
 
 ## Other Resources/Inpirations
