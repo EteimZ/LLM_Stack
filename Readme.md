@@ -51,19 +51,23 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Denoising Diffusion Probabilistic Model
 
 ## Papers
+[comment]: <> (A nice have column would be the corresponding papers with code column and a link or links to the paper explanation.)
 
-- [Attention is all you need](https://arxiv.org/abs/1706.03762): The paper that introduced the transformer architecture.
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): The paper that introduced intructgpt which was ground work for ChatGPT.
-- [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
-- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239): This paper instroduces the **Denoising Diffusion Probabilistic Model** which is used for image synthesis.
-- [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020): This paper introduced the [CLIP](https://openai.com/research/clip) model.
-- [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741): This paper introduced the glide model.
-- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146): This paper introduced the concept of finetuning Language models.
-- [A Brief History of Prompt: Leveraging Language Models. (Through Advanced Prompting)](https://arxiv.org/abs/2310.04438)
-- [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)
-- [First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020): This paper explains the existential crisis that most NLP currently face since the rise of LLMs.
+
+|  name  |  Description   |
+| :----: | :-------------:
+| [Attention is all you need](https://arxiv.org/abs/1706.03762)     | The paper that introduced the transformer architecture.  |
+|  [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | The paper that introduced intructgpt which was ground work for ChatGPT. |
+|[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)| |
+|[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)| |
+|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)| The paper that introduced the **RAG** technique|
+|[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | This paper instroduces the **Denoising Diffusion Probabilistic Model** which is used for image synthesis. |
+|[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)| This paper introduced the [CLIP](https://openai.com/research/clip) model. |
+|[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)| This paper introduced the glide model. |
+|[Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | This paper introduced the concept of finetuning Language models. |
+|[A Brief History of Prompt: Leveraging Language Models. (Through Advanced Prompting)](https://arxiv.org/abs/2310.04438)| |
+|[A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)||
+|[First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020)| This paper explains the existential crisis that most NLP currently face since the rise of LLMs. |
 
 ## Technologies
 
