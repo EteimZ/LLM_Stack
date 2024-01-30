@@ -81,12 +81,6 @@ This repo is my note to the ever evolving Generative AI landscape.
 ## Blogs
 - [DDPM in keras](https://keras.io/examples/generative/ddpm/): This tutorial implements the **Denoising Diffusion Probabilistic Model** in keras.
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/): Awesome blog bost introducing diffusion models.
-  
-## Companies
-
-## YouTube Channels
-
-## Podcasts
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
@@ -96,6 +90,21 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [Text REtrieval Conference (TREC)](https://huggingface.co/datasets/trec): This dataset is for question classification.
 - [AG news](https://huggingface.co/datasets/ag_news): This dataset is suitable for topic classification dataset. It contains 1 million news and their corresponding topic as labels. The labels fall into 5 classes.
 -  [DPpedia 14](https://huggingface.co/datasets/fancyzhx/dbpedia_14): This dataset contains a subset of DBpedia dataset.
+
+
+## Companies
+
+|  company  |    Description |     job board|
+| :----:    | :-------------:| :------------:|
+| [weaviate](https://weaviate.io/) | Vector database company |  [Go to](https://weaviate.io/company/careers#jobs) |
+| [Replicate](https://replicate.com/) | Deploys open source models |  [Go to](https://replicate.com/about#join-us) |
+| [ChromaDB](https://www.trychroma.com/) | Vector database company |  [Go to](https://trychroma.notion.site/careers-chroma-9d017c3007c7478ebd85bad854101497) |
+| [mistral](https://mistral.ai/)| Creators of the Mistral 7B and Mixtral 8x7B models|[Go to](https://jobs.lever.co/mistral?)|
+
+## YouTube Channels
+
+## Podcasts
+
 
 
 ## Other Resources/Inpirations
