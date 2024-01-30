@@ -60,6 +60,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |  [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | The paper that introduced intructgpt which was ground work for ChatGPT. |
 |[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)| |
 |[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)| |
+|[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)| |
 |[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)| The paper that introduced the **RAG** technique|
 |[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | This paper instroduces the **Denoising Diffusion Probabilistic Model** which is used for image synthesis. |
 |[Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)| This paper introduced the [CLIP](https://openai.com/research/clip) model. |
