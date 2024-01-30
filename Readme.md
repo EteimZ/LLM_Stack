@@ -7,6 +7,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Large Language Models
 - Pretrianed models
 - Fine tuning
+- Supervised fine tuning
+- Instruction tuning
 - Transfer Learning
 - Agents
 - Prompting
@@ -86,6 +88,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 ## Blogs
 - [DDPM in keras](https://keras.io/examples/generative/ddpm/): This tutorial implements the **Denoising Diffusion Probabilistic Model** in keras.
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/): Awesome blog bost introducing diffusion models.
+- [instruction-tuning-vol-1](https://newsletter.ruder.io/p/instruction-tuning-vol-1): A walkththrough of various instruction tuning methods and datasets.
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
@@ -109,7 +112,6 @@ This repo is my note to the ever evolving Generative AI landscape.
 ## YouTube Channels
 
 ## Podcasts
-
 
 
 ## Other Resources/Inpirations
