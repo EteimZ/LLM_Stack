@@ -43,6 +43,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Vicuna
 - Mistral 7B
 - Mixtral 8x7B
+- LLaVA
+- OpenHermes
 
 ### Proprietary models
 - Gemini
@@ -73,6 +75,10 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020)| This paper explains the existential crisis that most NLP currently face since the rise of LLMs. |
 
 ## Technologies
+
+### Runtimes
+- Ollama
+- llamacpp
 
 ### Libaries
 - Langchain
