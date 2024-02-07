@@ -23,6 +23,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Few shot prompting
 - Chain of Thought
 - ReACT
+- Tree of Thought
+- Multi Hop Question and Answering
 
 ### Fine tuning Techniques
 - PEFT
@@ -34,25 +36,24 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Direct Preference Optimization (DPO)
 
 ## Models
-## Language models
+### Language models
 
-### Open source
 - Llama
 - Llama2
 - Alpaca
 - Vicuna
 - Mistral 7B
 - Mixtral 8x7B
-- LLaVA
 - OpenHermes
-
-### Proprietary models
 - Gemini
 - GPT models
 
-## Diffusion models
+### Diffusion models
 - Stable diffusion
 - Denoising Diffusion Probabilistic Model
+
+### Multi-modal models
+- LLaVA
 
 ## Papers
 [comment]: <> (A nice have column would be the corresponding papers with code column and a link or links to the paper explanation.)
@@ -95,6 +96,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [DDPM in keras](https://keras.io/examples/generative/ddpm/): This tutorial implements the **Denoising Diffusion Probabilistic Model** in keras.
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/): Awesome blog bost introducing diffusion models.
 - [instruction-tuning-vol-1](https://newsletter.ruder.io/p/instruction-tuning-vol-1): A walkththrough of various instruction tuning methods and datasets.
+- [Illustrated Stable Diffusion](http://jalammar.github.io/illustrated-stable-diffusion/): An illustrative guide to stable diffusion.
+- [Painting with words a history of text to image ai](https://replicate.com/blog/painting-with-words-a-history-of-text-to-image-ai): Blog article details the history of text to image models.
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
