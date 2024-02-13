@@ -75,6 +75,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[A Brief History of Prompt: Leveraging Language Models. (Through Advanced Prompting)](https://arxiv.org/abs/2310.04438)| |
 |[A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)||
 |[First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020)| This paper explains the existential crisis that most NLP currently face since the rise of LLMs. |
+|[Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025)| A survey of LLM alignment. |
 
 ## Technologies
 
