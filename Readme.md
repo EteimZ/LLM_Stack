@@ -9,6 +9,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Fine tuning
 - Supervised fine tuning
 - Instruction tuning
+- Alignment
 - Transfer Learning
 - Agents
 - Prompting
