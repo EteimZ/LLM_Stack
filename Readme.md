@@ -99,6 +99,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [instruction-tuning-vol-1](https://newsletter.ruder.io/p/instruction-tuning-vol-1): A walkththrough of various instruction tuning methods and datasets.
 - [Illustrated Stable Diffusion](http://jalammar.github.io/illustrated-stable-diffusion/): An illustrative guide to stable diffusion.
 - [Painting with words a history of text to image ai](https://replicate.com/blog/painting-with-words-a-history-of-text-to-image-ai): Blog article details the history of text to image models.
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf): Huggingface article on RLHF.
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
