@@ -42,9 +42,9 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Direct Preference Optimization (DPO)
 
 ### Metrics
-- ROGUE
-- BLEU
-- GLUE
+- [ROGUE](https://aclanthology.org/W04-1013/)
+- [BLEU](https://aclanthology.org/P02-1040.pdf)
+- [GLUE](https://gluebenchmark.com/)
 
 ## Models
 ### Language models
