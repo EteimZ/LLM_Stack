@@ -16,6 +16,11 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Reinforcement Learning from Human Feedback
 - Embeddings
 - Diffusion models
+- Latent Diffusion Models
+
+## Model Architecture
+- Transformers
+- Mixture of Experts
   
 ## Techniques
 
@@ -76,6 +81,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)||
 |[First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020)| This paper explains the existential crisis that most NLP currently face since the rise of LLMs. |
 |[Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025)| A survey of LLM alignment. |
+|[Mixtral of Experts](https://arxiv.org/abs/2401.04088)| Mistral paper on Mixtral 8x7B |
 
 ## Technologies
 
@@ -102,6 +108,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [Painting with words a history of text to image ai](https://replicate.com/blog/painting-with-words-a-history-of-text-to-image-ai): Blog article details the history of text to image models.
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf): Huggingface article on RLHF.
 - [An Introduction to Diffusion Models and Stable Diffusion](https://blog.marvik.ai/2023/11/28/an-introduction-to-diffusion-models-and-stable-diffusion/): Anotehr awesome article on Diffusion models.
+- [Mixture of Experts ml model guide](https://deepgram.com/learn/mixture-of-experts-ml-model-guide) by Deepgram.
+- [Text to Video](https://huggingface.co/blog/text-to-video) explanation article by Huggingface.
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
