@@ -41,6 +41,11 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [Proximal Policy Optimization(PPO)](https://en.wikipedia.org/wiki/Proximal_Policy_Optimization)
 - Direct Preference Optimization (DPO)
 
+### Metrics
+- ROGUE
+- BLEU
+- GLUE
+
 ## Models
 ### Language models
 
