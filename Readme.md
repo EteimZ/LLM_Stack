@@ -82,8 +82,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://arxiv.org/abs/2311.05020)| This paper explains the existential crisis that most NLP currently face since the rise of LLMs. |
 |[Large Language Model Alignment: A Survey](https://arxiv.org/abs/2309.15025)| A survey of LLM alignment. |
 |[Mixtral of Experts](https://arxiv.org/abs/2401.04088)| Mistral paper on Mixtral 8x7B |
-|[OUTRAGEOUSLY LARGE NEURAL NETWORKS:
-THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/abs/1701.06538)| This paper introduced the sparsely gated mixture of experts model. |
+|[OUTRAGEOUSLY LARGE NEURAL NETWORKS:THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/abs/1701.06538)| This paper introduced the sparsely gated mixture of experts model. |
 
 ## Technologies
 
