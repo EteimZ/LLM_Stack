@@ -95,6 +95,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 ### Runtimes
 - Ollama
 - llamacpp
+- GPT4ALL
 
 ### Libaries
 - Langchain
