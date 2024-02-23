@@ -60,6 +60,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - OpenHermes
 - Gemini
 - GPT models
+- GPT-J
 
 ### Diffusion models
 - Stable diffusion
@@ -103,6 +104,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Langchain
 - LlamaIndex
 - Huggingface
+- Instructor
 - [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch): Implementation of **Denoising Diffusion Probabilistic Model**  in Pytorch.
 
 ### Multi Agent Frameworks
@@ -118,6 +120,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [DDPM in keras](https://keras.io/examples/generative/ddpm/): This tutorial implements the **Denoising Diffusion Probabilistic Model** in keras.
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/): Awesome blog bost introducing diffusion models.
 - [instruction-tuning-vol-1](https://newsletter.ruder.io/p/instruction-tuning-vol-1): A walkththrough of various instruction tuning methods and datasets.
+- [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/): An illustrative guide to transformers.
 - [Illustrated Stable Diffusion](http://jalammar.github.io/illustrated-stable-diffusion/): An illustrative guide to stable diffusion.
 - [Painting with words a history of text to image ai](https://replicate.com/blog/painting-with-words-a-history-of-text-to-image-ai): Blog article details the history of text to image models.
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF) ](https://huggingface.co/blog/rlhf): Huggingface article on RLHF.
