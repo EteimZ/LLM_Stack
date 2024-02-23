@@ -21,6 +21,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 ## Model Architecture
 - Transformers
 - Mixture of Experts
+- Mamba
+- State Space Models(SSM)
   
 ## Techniques
 
@@ -103,6 +105,10 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Huggingface
 - [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch): Implementation of **Denoising Diffusion Probabilistic Model**  in Pytorch.
 
+### Multi Agent Frameworks
+- [autogen](https://microsoft.github.io/autogen/)
+- [CrewAI](https://docs.crewai.com/)
+
 ### Vector databases
 - Weaviate
 - Pinecone
@@ -118,6 +124,10 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [An Introduction to Diffusion Models and Stable Diffusion](https://blog.marvik.ai/2023/11/28/an-introduction-to-diffusion-models-and-stable-diffusion/): Anotehr awesome article on Diffusion models.
 - [Mixture of Experts ml model guide](https://deepgram.com/learn/mixture-of-experts-ml-model-guide) by Deepgram.
 - [Text to Video](https://huggingface.co/blog/text-to-video) explanation article by Huggingface.
+- [A Visual Guide to MAMBA and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
+- [Which Quantization Method Is Right](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
+- [Why Are Sines and Cosines Used For Positional Encoding?](https://mfaizan.github.io/2023/04/02/sines.html)
+- [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
