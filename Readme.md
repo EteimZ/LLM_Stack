@@ -17,6 +17,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Embeddings
 - Diffusion models
 - Latent Diffusion Models
+- Instruction tuned models
+- Chat tuned models
 
 ## Model Architecture
 - Transformers
