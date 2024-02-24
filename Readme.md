@@ -97,6 +97,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[Mixtral of Experts](https://arxiv.org/abs/2401.04088)| Mistral paper on Mixtral 8x7B |
 |[OUTRAGEOUSLY LARGE NEURAL NETWORKS:THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/abs/1701.06538)| This paper introduced the sparsely gated mixture of experts model. |
 |[A General Survey on Attention Mechanisms in Deep Learning](https://arxiv.org/abs/2203.14263) | This paper is survey of the attention mechanism across domains in Deep Learning|
+|[Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) | |
 
 ## Technologies
 
