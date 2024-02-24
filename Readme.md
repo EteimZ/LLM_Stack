@@ -35,11 +35,14 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Multi Hop Question and Answering
 
 ### Fine tuning Techniques
-- PEFT
-- LoRA
 - SFT
 
-### Policy selection techniques
+### Parameter Effecient Fine Tuning Techniques
+- LoRA
+- QLoRA
+- Adapters
+
+### Alignment techniques
 - [Proximal Policy Optimization(PPO)](https://en.wikipedia.org/wiki/Proximal_Policy_Optimization)
 - Direct Preference Optimization (DPO)
 
@@ -54,7 +57,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Llama
 - Llama2
 - Alpaca
-- Vicuna
+- [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
 - Mistral 7B
 - Mixtral 8x7B
 - OpenHermes
