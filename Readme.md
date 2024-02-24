@@ -58,7 +58,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 
 - Llama
 - Llama2
-- Alpaca
+- [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
 - Mistral 7B
 - Mixtral 8x7B
