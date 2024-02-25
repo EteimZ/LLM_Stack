@@ -69,6 +69,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 
 ### Diffusion models
 - Stable diffusion
+- [ControlNet](https://github.com/lllyasviel/ControlNet)
 - Denoising Diffusion Probabilistic Model
 
 ### Multi-modal models
@@ -101,7 +102,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 
 ## Technologies
 
-### Runtimes
+### Inference Runtimes
 - Ollama
 - llamacpp
 - GPT4ALL
