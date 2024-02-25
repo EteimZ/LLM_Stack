@@ -107,6 +107,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) | |
 |[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | |
 |[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | |
+|[OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) | |
 
 
 ## Technologies
