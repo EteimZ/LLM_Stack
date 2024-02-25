@@ -71,6 +71,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Gemini
 - GPT models
 - GPT-J
+- [Guanaco](https://guanaco-model.github.io/)
 
 ### Diffusion models
 - Stable diffusion
@@ -105,6 +106,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 |[A General Survey on Attention Mechanisms in Deep Learning](https://arxiv.org/abs/2203.14263) | This paper is survey of the attention mechanism across domains in Deep Learning|
 |[Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) | |
 |[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | |
+|[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | |
 
 
 ## Technologies
