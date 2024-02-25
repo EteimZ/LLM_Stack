@@ -48,6 +48,11 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [Proximal Policy Optimization(PPO)](https://en.wikipedia.org/wiki/Proximal_Policy_Optimization)
 - Direct Preference Optimization (DPO)
 
+### Quantization techniques
+- GPTQ
+- GGUF
+- AWQ
+
 ### Metrics
 - [ROGUE](https://aclanthology.org/W04-1013/)
 - [BLEU](https://aclanthology.org/P02-1040.pdf)
