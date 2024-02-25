@@ -72,6 +72,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - GPT models
 - GPT-J
 - [Guanaco](https://guanaco-model.github.io/)
+- MPT
 
 ### Diffusion models
 - Stable diffusion
