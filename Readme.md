@@ -73,7 +73,7 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Denoising Diffusion Probabilistic Model
 
 ### Multi-modal models
-- LLaVA
+- [LLaVA](https://llava-vl.github.io/)
 
 ## Papers
 [comment]: <> (A nice have column would be the corresponding papers with code column and a link or links to the paper explanation.)
