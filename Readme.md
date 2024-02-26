@@ -59,20 +59,27 @@ This repo is my note to the ever evolving Generative AI landscape.
 - [GLUE](https://gluebenchmark.com/)
 
 ## Models
-### Language models
 
-- Llama
-- Llama2
-- [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
-- [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
+### Base models
+
+- LLaMA1
+- LLaMA2
 - Mistral 7B
 - Mixtral 8x7B
-- OpenHermes
-- Gemini
 - GPT models
+  - GPT
+  - GPT2
+  - GPT3
+- MPT
+- Gemini
+
+### Fine Tuned models
+- [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
+- OpenHermes
+
 - GPT-J
 - [Guanaco](https://guanaco-model.github.io/)
-- MPT
 
 ### Diffusion models
 - Stable diffusion
@@ -81,6 +88,13 @@ This repo is my note to the ever evolving Generative AI landscape.
 
 ### Multi-modal models
 - [LLaVA](https://llava-vl.github.io/)
+
+## Prompt formats
+Different LLMs have their formats for provide input to their fine tuned models. Read more [here](https://huggingface.co/docs/transformers/main/en/chat_templating)
+- [ChatML](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/ai-services/openai/includes/chat-markup-language.md#chatml)
+- LLaMA2 format
+- Mistral instruct format
+
 
 ## Papers
 [comment]: <> (A nice have column would be the corresponding papers with code column and a link or links to the paper explanation.)
