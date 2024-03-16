@@ -45,6 +45,8 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Adapters
 
 ### Alignment techniques
+- RLHF
+- RLAIF
 - [Proximal Policy Optimization(PPO)](https://en.wikipedia.org/wiki/Proximal_Policy_Optimization)
 - Direct Preference Optimization (DPO)
 
@@ -89,6 +91,9 @@ This repo is my note to the ever evolving Generative AI landscape.
 ### Multi-modal models
 - [LLaVA](https://llava-vl.github.io/)
 
+### Music Gen models
+- MusicLM
+
 ## Prompt formats
 Different LLMs have their formats for provide input to their fine tuned models. Read more [here](https://huggingface.co/docs/transformers/main/en/chat_templating)
 - [ChatML](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/ai-services/openai/includes/chat-markup-language.md#chatml)
@@ -123,6 +128,7 @@ Different LLMs have their formats for provide input to their fine tuned models. 
 |[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | |
 |[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | |
 |[OpenAssistant Conversations -- Democratizing Large Language Model Alignment](https://arxiv.org/abs/2304.07327) | |
+|[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf) | |
 
 
 ## Technologies
@@ -163,6 +169,7 @@ Different LLMs have their formats for provide input to their fine tuned models. 
 - [Which Quantization Method Is Right](https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
 - [Why Are Sines and Cosines Used For Positional Encoding?](https://mfaizan.github.io/2023/04/02/sines.html)
 - [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- [An introduction to poisson flow generative models](https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/): An article introducing PFGM.
 
 ## Datasets
 - [GLUE, the General Language Understanding Evaluation benchmark](https://huggingface.co/datasets/glue).
@@ -176,12 +183,13 @@ Different LLMs have their formats for provide input to their fine tuned models. 
 
 ## Companies
 
-|  company  |    Description |     job board|
-| :----:    | :-------------:| :------------:|
-| [weaviate](https://weaviate.io/) | Vector database company |  [Go to](https://weaviate.io/company/careers#jobs) |
-| [Replicate](https://replicate.com/) | Deploys open source models |  [Go to](https://replicate.com/about#join-us) |
-| [ChromaDB](https://www.trychroma.com/) | Vector database company |  [Go to](https://trychroma.notion.site/careers-chroma-9d017c3007c7478ebd85bad854101497) |
-| [mistral](https://mistral.ai/)| Creators of the Mistral 7B and Mixtral 8x7B models|[Go to](https://jobs.lever.co/mistral?)|
+|  company  |    Description |
+| :----:    | :-------------:|
+| [weaviate](https://weaviate.io/) | Vector database company |
+| [Replicate](https://replicate.com/) | Deploys open source models |
+| [ChromaDB](https://www.trychroma.com/) | Vector database company |
+| [mistral](https://mistral.ai/)| Creators of the Mistral 7B and Mixtral 8x7B models|
+| [deepgram](https://deepgram.com/)|A text to speech AI company |
 
 ## YouTube Channels
 
